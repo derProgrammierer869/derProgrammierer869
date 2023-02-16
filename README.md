@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derProgrammierer869 (German for 'the programmer')
 - 👀 I’m interested in coding, cars, and tech in general. 
-- 🌱 I’m currently learning software engineering as a whole. 
+- 🌱 Software engineer based in Virginia. 
 - 📫 How to reach me -> nicholascrosbie16@gmail.com
 
 <!---
